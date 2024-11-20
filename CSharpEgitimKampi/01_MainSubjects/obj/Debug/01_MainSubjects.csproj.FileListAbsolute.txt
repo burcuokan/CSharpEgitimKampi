@@ -5,3 +5,10 @@ C:\Users\okan113\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_Mai
 C:\Users\okan113\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
 C:\Users\okan113\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
 C:\Users\okan113\source\repos\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csprojAssemblyReference.cache
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\okan113\Source\Repos\burcuokan\CSharpEgitimKampi\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb

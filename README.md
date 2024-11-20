@@ -4,6 +4,8 @@
 Bu repo, Murat Yücedağ’ın C# Eğitim Kampı kapsamında geliştirdiğim ilk 8 projeyi içermektedir. Bu projeler, belirli programlama kavramlarını daha derinlemesine anlamama ve pratik yaparak bu konularda yetkinlik kazanmama yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
 
 📍 **Proje 1: Temel Yazdırma Komutları ve Değişkenler**
+---
+---
 
 Bu projede, C# dilinde yazdırma komutları, string ve int veri tipleri gibi temel kavramları öğrendim. Bu kavramları kullanarak, kullanıcıya sunulacak bir restoran menüsü tasarladık ve örnek bir menü üzerinden çeşitli işlemler gerçekleştirdik.
 

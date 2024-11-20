@@ -5,7 +5,6 @@ Bu repo, Murat Yücedağ’ın C# Eğitim Kampı kapsamında geliştirdiğim ilk
 
 📍 **Proje 1: Temel Yazdırma Komutları ve Değişkenler**
 ---
----
 
 Bu projede, C# dilinde yazdırma komutları, string ve int veri tipleri gibi temel kavramları öğrendim. Bu kavramları kullanarak, kullanıcıya sunulacak bir restoran menüsü tasarladık ve örnek bir menü üzerinden çeşitli işlemler gerçekleştirdik.
 

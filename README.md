@@ -43,3 +43,15 @@ Bu projede, C# dilinde foreach döngüsü kullanılarak bir sınav sistemi uygul
 
 Bu projede, C# dilinde çeşitli metotların kullanımını öğrendim. Bu projede, geriye değer döndürmeyen metotlar, parametreli void metotlar ve geriye değer döndüren metotlar kullanarak çeşitli uygulamalar gerçekleştirilmiştir.
 
+📍 **Proje 9: Veritabanlı Ürün-Kategori Bilgi Sistemi**
+---
+
+Bu projede, veritabanı bağlantısı kurma ve veritabanından veri çekme konusunda deneyim kazandım. Kullanıcıdan seçilen tabloya göre verileri ekran üzerinde listeleyen bir uygulama geliştirdim. SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlantı sağladım ve çeşitli SQL sorguları çalıştırmayı başardım. Bu süreçte, veritabanı yönetimi, sorgu yazma ve veri akışını yönetme konularında önemli beceriler kazandım. Ayrıca, veritabanı ile etkileşimde bulunarak veri çekme ve görüntüleme işlemleri hakkında daha derin bir anlayış geliştirdim.
+
+📍 **Proje 10: Menü Sipariş İşlem Paneli**
+---
+
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemleri ile bir veritabanı üzerinde etkileşim sağladım. SQL bağlantıları kullanarak ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirdim. Bu süreç, SQL komutlarıyla veritabanına veri ekleme ve sorgulama becerilerimi pekiştirmemi sağladı.
+
+
+
